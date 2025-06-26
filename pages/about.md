@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Jacob's Portfolio
+# João's Portfolio
 
-Isn't it great.
+I'm João. I'm portuguese and live in Berlin.
